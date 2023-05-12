@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "bradlc.vscode-tailwindcss",
+        "naumovs.color-highlight",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "github.vscode-pull-request-github",
+        "oderwat.indent-rainbow"
+    ]
+}
